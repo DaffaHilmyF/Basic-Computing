@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1556494030 source:d:\kuliah\tp\tubes_std\main.cpp
+	"DokterAndPasien.h"
+
+1556493636 d:\kuliah\tp\tubes_std\dokterandpasien.h
+	<bits/stdc++.h>
+
+1556493740 source:d:\kuliah\tp\tubes_std\dokterandpasien.cpp
+	"DokterAndPasien.h"
+
